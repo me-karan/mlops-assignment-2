@@ -1,0 +1,7 @@
+/Users/karansingh/Assingments/MLOPs/ASS2/.venv/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but not supported on MPS now, device pinned memory won't be used.
+  super().__init__(loader)
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████| 200/200 [00:45<00:00,  4.36it/s]
+Evaluation results: {'eval_loss': 1.171237826347351, 'eval_model_preparation_time': 0.0004, 'eval_accuracy': 0.613125, 'eval_runtime': 46.1988, 'eval_samples_per_second': 34.633, 'eval_steps_per_second': 4.329, 'epoch': 0}
+/Users/karansingh/Assingments/MLOPs/ASS2/.venv/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but not supported on MPS now, device pinned memory won't be used.
+  super().__init__(loader)
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████| 200/200 [00:48<00:00,  4.15it/s]

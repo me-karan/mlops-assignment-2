@@ -1,0 +1,40 @@
+[transformers] `logging_dir` is deprecated and will be removed in v5.2. Please set `TENSORBOARD_LOGGING_DIR` instead.
+  0%|                                                                                                            | 0/1200 [00:00<?, ?it/s]/Users/karansingh/Assingments/MLOPs/ASS2/.venv/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but not supported on MPS now, device pinned memory won't be used.
+  super().__init__(loader)
+Writing model shards: 100%|█████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00,  5.24it/s]
+{'loss': '2.083', 'grad_norm': '2.272', 'learning_rate': '1.47e-05', 'epoch': '0.125'}
+{'loss': '1.982', 'grad_norm': '4.677', 'learning_rate': '2.97e-05', 'epoch': '0.25'}
+{'loss': '1.632', 'grad_norm': '5.271', 'learning_rate': '2.866e-05', 'epoch': '0.375'}
+{'loss': '1.413', 'grad_norm': '9.332', 'learning_rate': '2.73e-05', 'epoch': '0.5'}
+{'loss': '1.315', 'grad_norm': '10.45', 'learning_rate': '2.594e-05', 'epoch': '0.625'}
+{'loss': '1.256', 'grad_norm': '6.679', 'learning_rate': '2.457e-05', 'epoch': '0.75'}
+{'loss': '1.272', 'grad_norm': '9.973', 'learning_rate': '2.321e-05', 'epoch': '0.875'}
+{'loss': '1.3', 'grad_norm': '15.4', 'learning_rate': '2.185e-05', 'epoch': '1'}
+/Users/karansingh/Assingments/MLOPs/ASS2/.venv/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but not supported on MPS now, device pinned memory won't be used.
+{'eval_loss': '1.221', 'eval_accuracy': '0.5725', 'eval_runtime': '76', 'eval_samples_per_second': '21.05', 'eval_steps_per_second': '0.658', 'epoch': '1'}
+  super().__init__(loader)
+Writing model shards: 100%|█████████████████████████████████████████████████████████████████████████████████| 1/1 [00:02<00:00,  2.55s/it]
+{'loss': '1.087', 'grad_norm': '9.908', 'learning_rate': '2.048e-05', 'epoch': '1.125'}
+{'loss': '1.094', 'grad_norm': '9.271', 'learning_rate': '1.912e-05', 'epoch': '1.25'}
+{'loss': '1.02', 'grad_norm': '14.13', 'learning_rate': '1.775e-05', 'epoch': '1.375'}
+{'loss': '0.9925', 'grad_norm': '5.389', 'learning_rate': '1.639e-05', 'epoch': '1.5'}
+{'loss': '0.9851', 'grad_norm': '7.308', 'learning_rate': '1.503e-05', 'epoch': '1.625'}
+{'loss': '0.9896', 'grad_norm': '11.22', 'learning_rate': '1.366e-05', 'epoch': '1.75'}
+{'loss': '0.9422', 'grad_norm': '14.43', 'learning_rate': '1.23e-05', 'epoch': '1.875'}
+{'loss': '0.9185', 'grad_norm': '9.094', 'learning_rate': '1.094e-05', 'epoch': '2'}
+/Users/karansingh/Assingments/MLOPs/ASS2/.venv/lib/python3.11/site-packages/torch/utils/data/dataloader.py:752: UserWarning: 'pin_memory' argument is set as true but not supported on MPS now, device pinned memory won't be used.
+{'eval_loss': '1.178', 'eval_accuracy': '0.59', 'eval_runtime': '87.77', 'eval_samples_per_second': '18.23', 'eval_steps_per_second': '0.57', 'epoch': '2'}
+  super().__init__(loader)
+Writing model shards: 100%|█████████████████████████████████████████████████████████████████████████████████| 1/1 [00:01<00:00,  1.99s/it]
+{'loss': '0.7851', 'grad_norm': '8.886', 'learning_rate': '9.573e-06', 'epoch': '2.125'}
+{'loss': '0.7754', 'grad_norm': '10.85', 'learning_rate': '8.209e-06', 'epoch': '2.25'}
+{'loss': '0.7748', 'grad_norm': '7.091', 'learning_rate': '6.845e-06', 'epoch': '2.375'}
+{'loss': '0.6577', 'grad_norm': '7.357', 'learning_rate': '5.482e-06', 'epoch': '2.5'}
+{'loss': '0.7626', 'grad_norm': '9.607', 'learning_rate': '4.118e-06', 'epoch': '2.625'}
+{'loss': '0.6614', 'grad_norm': '15.9', 'learning_rate': '2.755e-06', 'epoch': '2.75'}
+{'loss': '0.7569', 'grad_norm': '8.187', 'learning_rate': '1.391e-06', 'epoch': '2.875'}
+{'loss': '0.7472', 'grad_norm': '6.704', 'learning_rate': '2.727e-08', 'epoch': '3'}
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████| 1200/1200 [50:56<00:00,  2.55s/it]
+{'eval_loss': '1.171', 'eval_accuracy': '0.6131', 'eval_runtime': '79.93', 'eval_samples_per_second': '20.02', 'eval_steps_per_second': '0.626', 'epoch': '3'}
+{'train_runtime': '3057', 'train_samples_per_second': '6.281', 'train_steps_per_second': '0.393', 'train_loss': '1.092', 'epoch': '3'}
+Writing model shards: 100%|█████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00,  9.29it/s]

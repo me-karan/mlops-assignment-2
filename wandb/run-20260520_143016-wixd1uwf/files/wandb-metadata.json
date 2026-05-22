@@ -1,0 +1,34 @@
+{
+  "os": "macOS-26.3.1-arm64-arm-64bit",
+  "python": "CPython 3.11.15",
+  "startedAt": "2026-05-20T09:00:16.381206Z",
+  "program": "/Users/karansingh/Assingments/MLOPs/ASS2/train_with_wandb.py",
+  "codePath": "train_with_wandb.py",
+  "codePathLocal": "train_with_wandb.py",
+  "email": "g25ait2048@iitj.ac.in",
+  "root": "/Users/karansingh/Assingments/MLOPs/ASS2",
+  "host": "KARANs-MacBook-Air.local",
+  "executable": "/Users/karansingh/Assingments/MLOPs/ASS2/.venv/bin/python3",
+  "cpu_count": 10,
+  "cpu_count_logical": 10,
+  "disk": {
+    "/": {
+      "total": "245107195904",
+      "used": "100298964992"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "apple": {
+    "name": "Apple M4",
+    "ecpuCores": 6,
+    "pcpuCores": 4,
+    "gpuCores": 8,
+    "memoryGb": 16,
+    "swapTotalBytes": "4294967296",
+    "ramTotalBytes": "17179869184",
+    "macModel": "Mac16,12"
+  },
+  "writerId": "sdejdegry4b3s9jy13omm0came9pti1b"
+}
