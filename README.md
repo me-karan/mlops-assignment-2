@@ -8,8 +8,12 @@
 | `loss` | 1.16694 |
 
 > GC training file - https://colab.research.google.com/drive/1YAwEBD3HNVf3pRIlvzMbzlUdk0kDIOfw#scrollTo=sZFvYxowugsE
+>
+> Kaggle training file - https://www.kaggle.com/code/karang25ait2048/mlops2
 > 
 > WandB dashboard - https://wandb.ai/g25ait2048-iit-jodhpur/mlops-assignment2/workspace?nw=nwuserg25ait2048
+>
+> Hugging face - https://huggingface.co/g25Ait2048/distilbert-goodreads-genres/tree/main
 
 ## Setup and Training
 > Model training done on local and collab,
